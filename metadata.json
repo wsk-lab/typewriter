@@ -1,0 +1,5 @@
+{
+  "name": "Typewriter ",
+  "description": "A retro-styled application where you can compose text on a virtual typewriter, polish it using AI to sound like the 1920s, and print it onto draggable paper cards.",
+  "requestFramePermissions": []
+}
